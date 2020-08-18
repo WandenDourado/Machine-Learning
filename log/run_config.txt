@@ -1,0 +1,24 @@
+Executado em 06/08/2020 23:35:36
+MLP -> f_atv = softmax, numero_de_neuronios=  500
+Executado em 06/08/2020 23:52:05
+MLP -> f_atv = softmax, numero_de_neuronios=  500
+Executado em 06/08/2020 23:53:03
+MLP -> f_atv = softmax, numero_de_neuronios=  500
+Executado em 06/08/2020 23:55:41
+MLP -> f_atv = softmax, numero_de_neuronios=  1500
+Executado em 06/08/2020 23:57:55
+MLP -> f_atv = softmax, numero_de_neuronios=  1500
+Executado em 06/08/2020 23:59:00
+MLP -> f_atv = softmax, numero_de_neuronios=  1500
+Executado em 07/08/2020 00:02:53
+MLP -> f_atv = softmax, numero_de_neuronios=  8000
+Executado em 07/08/2020 00:05:20
+MLP -> f_atv = softmax, numero_de_neuronios=  500
+Executado em 07/08/2020 09:35:03
+MLP -> f_atv = softmax, numero_de_neuronios=  500
+Executado em 07/08/2020 10:00:37
+MLP -> f_atv = softmax, numero_de_neuronios=  500
+Executado em 07/08/2020 10:37:06
+MLP -> f_atv = softmax, numero_de_neuronios=  500
+Executado em 15/08/2020 15:27:06
+MLP -> f_atv = softmax, numero_de_neuronios=  500
